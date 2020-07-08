@@ -21,19 +21,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://5f05d2d944220b0007116acc--pastech.netlify.app/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume/issues",
+        "url": "https://github.com/passy4ucj/myResume/issues",
         "email": "ojinnnakapascal@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Pascal"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
+        "url": "https://github.com/passy4ucj/myResume"
     },
     "dependencies": {
         "bootstrap": "4.5.0"
